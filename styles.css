@@ -6,9 +6,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
 }
-
 
 #logo{
     max-height: 50px;
@@ -21,7 +19,6 @@ ul {
     flex-direction: row;
     justify-content: space-between;
     text-decoration: seashell;
-
   }
 
   ul li {
@@ -51,7 +48,6 @@ ul {
 
 .text-content{
     text-align: center;
-
 }
 
 body {
@@ -66,7 +62,6 @@ body {
 }
 
 #images {
- 
     display: inline-flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -75,13 +70,11 @@ body {
 .image-container {
     margin: 10px;
     text-align: center; /* Center the image and description */
-
 }
 
 .image-container img {
     width: 300px; /* Set a fixed width for each image */
     height: 200px; /* Maintain aspect ratio */
-
 }
 
 .image-container p {
@@ -116,7 +109,7 @@ body {
     opacity: 1;
     color: seashell;
 }
-
+ 
 .shops{
     margin-top: 15px;
     display: flex;
@@ -139,5 +132,4 @@ a{
     margin-top: 20px;
     height: 200px;
     opacity: 0.9;
-
 }
